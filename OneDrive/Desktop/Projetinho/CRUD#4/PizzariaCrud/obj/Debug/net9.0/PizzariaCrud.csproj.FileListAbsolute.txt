@@ -1,0 +1,14 @@
+C:\Users\thale\OneDrive\Desktop\Projetinho\CRUD#4\PizzariaCrud\bin\Debug\net9.0\PizzariaCrud.exe
+C:\Users\thale\OneDrive\Desktop\Projetinho\CRUD#4\PizzariaCrud\bin\Debug\net9.0\PizzariaCrud.deps.json
+C:\Users\thale\OneDrive\Desktop\Projetinho\CRUD#4\PizzariaCrud\bin\Debug\net9.0\PizzariaCrud.runtimeconfig.json
+C:\Users\thale\OneDrive\Desktop\Projetinho\CRUD#4\PizzariaCrud\bin\Debug\net9.0\PizzariaCrud.dll
+C:\Users\thale\OneDrive\Desktop\Projetinho\CRUD#4\PizzariaCrud\bin\Debug\net9.0\PizzariaCrud.pdb
+C:\Users\thale\OneDrive\Desktop\Projetinho\CRUD#4\PizzariaCrud\obj\Debug\net9.0\PizzariaCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thale\OneDrive\Desktop\Projetinho\CRUD#4\PizzariaCrud\obj\Debug\net9.0\PizzariaCrud.AssemblyInfoInputs.cache
+C:\Users\thale\OneDrive\Desktop\Projetinho\CRUD#4\PizzariaCrud\obj\Debug\net9.0\PizzariaCrud.AssemblyInfo.cs
+C:\Users\thale\OneDrive\Desktop\Projetinho\CRUD#4\PizzariaCrud\obj\Debug\net9.0\PizzariaCrud.csproj.CoreCompileInputs.cache
+C:\Users\thale\OneDrive\Desktop\Projetinho\CRUD#4\PizzariaCrud\obj\Debug\net9.0\PizzariaCrud.dll
+C:\Users\thale\OneDrive\Desktop\Projetinho\CRUD#4\PizzariaCrud\obj\Debug\net9.0\refint\PizzariaCrud.dll
+C:\Users\thale\OneDrive\Desktop\Projetinho\CRUD#4\PizzariaCrud\obj\Debug\net9.0\PizzariaCrud.pdb
+C:\Users\thale\OneDrive\Desktop\Projetinho\CRUD#4\PizzariaCrud\obj\Debug\net9.0\PizzariaCrud.genruntimeconfig.cache
+C:\Users\thale\OneDrive\Desktop\Projetinho\CRUD#4\PizzariaCrud\obj\Debug\net9.0\ref\PizzariaCrud.dll
