@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thale\\OneDrive\\Desktop\\Projetinho\\CRUD#4\\PizzariaCrud\\PizzariaCrud.csproj": {}
+    "C:\\Users\\thale\\Desktop\\Crud\\CrudPizaria\\OneDrive\\Desktop\\Projetinho\\CRUD#4\\PizzariaCrud\\PizzariaCrud.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thale\\OneDrive\\Desktop\\Projetinho\\CRUD#4\\PizzariaCrud\\PizzariaCrud.csproj": {
+    "C:\\Users\\thale\\Desktop\\Crud\\CrudPizaria\\OneDrive\\Desktop\\Projetinho\\CRUD#4\\PizzariaCrud\\PizzariaCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thale\\OneDrive\\Desktop\\Projetinho\\CRUD#4\\PizzariaCrud\\PizzariaCrud.csproj",
+        "projectUniqueName": "C:\\Users\\thale\\Desktop\\Crud\\CrudPizaria\\OneDrive\\Desktop\\Projetinho\\CRUD#4\\PizzariaCrud\\PizzariaCrud.csproj",
         "projectName": "PizzariaCrud",
-        "projectPath": "C:\\Users\\thale\\OneDrive\\Desktop\\Projetinho\\CRUD#4\\PizzariaCrud\\PizzariaCrud.csproj",
+        "projectPath": "C:\\Users\\thale\\Desktop\\Crud\\CrudPizaria\\OneDrive\\Desktop\\Projetinho\\CRUD#4\\PizzariaCrud\\PizzariaCrud.csproj",
         "packagesPath": "C:\\Users\\thale\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thale\\OneDrive\\Desktop\\Projetinho\\CRUD#4\\PizzariaCrud\\obj\\",
+        "outputPath": "C:\\Users\\thale\\Desktop\\Crud\\CrudPizaria\\OneDrive\\Desktop\\Projetinho\\CRUD#4\\PizzariaCrud\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

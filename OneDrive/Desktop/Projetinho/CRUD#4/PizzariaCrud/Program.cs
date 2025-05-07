@@ -3,23 +3,10 @@ using System;
 using System.ComponentModel.Design;
 using System.Collections.Generic;
 using System.Reflection.Metadata.Ecma335;
+using System.Collections;
+using System.Reflection.Emit;
 //list pagamento
 List<string> metodosDePagamento = new List<string>();
-
-//Dicionários do valor de entrega por bairros
-Dictionary<string, int> valorBairros = new Dictionary<string, int>()
-{
-    {"Manaira", 5},
-    {"Estados", 7},
-    {"Valentina",20},
-    {"Bancários", 12},
-    {"Tambaúzinho", 9},
-    {"Altiplano", 12},
-    {"Ipês", 5},
-    {"Mangabeira", 19},
-    {"Outro", 11},
-    {"Bessa", 11},
-};
 
 //list Refrigerante
 List<int> valorRefrigerante = new List<int>();
@@ -370,12 +357,16 @@ void MetodosDePagamento()
                     }
                     if (precisaDetroco == 1)
                     {
-                        Console.WriteLine("Troco adicionado");
+                        Console.WriteLine("Gostaria de troco para quanto?");
+                        if(!int.TryParse(Console.ReadLine(), out int Quertroco))
+                        {
+                            Console.WriteLine("Valor inválido, tente novamente");
+                            return;
+                        }
+                        float valortroco = Math.Abs(Quertroco - valorTotal);
+                        Console.WriteLine($"Troco de {valortroco:C} adicionado");
                     }
-                    if (precisaDetroco == 2)
-                    {
-                        Console.WriteLine("Selecionou não precisa de troco");
-                    }
+                    
                     break;
                 }
             case 5:
